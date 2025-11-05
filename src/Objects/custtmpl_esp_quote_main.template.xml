@@ -16,43 +16,54 @@
 	</#if>
     <macrolist>
         <macro id="nlheader">
-<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; position:relative;">
-  <tr>
-    <td style="background-color:#ffffff; padding:10px 20px; vertical-align:middle; position:relative;">
-      <img src="https://11251501-sb1.app.netsuite.com/core/media/media.nl?id=10064&amp;c=11251501_SB1&amp;h=5c9yoVt8caaSSmWFLoNwBAplGsQ9U4K0qza_NhdsXSKK2lF3" 
-           alt="Thermoco Logo" style="position:absolute; left:-60px; top:-50px; height:100%; max-height:100px; z-index:10;"/>
-      
-      <div style="margin-left:250px;">
-        <div style="font-size:22px; font-weight:bold; color:#555;">SOUMISSION</div>
-        <div style="font-size:12px; margin-top:5px;">
-          La référence en chauffage et climatisation depuis <strong>1981</strong> 
-          &nbsp;|&nbsp; <a href="https://thermoco.ca" style="color:#c4121a; text-decoration:none;">Thermoco.ca</a>
-        </div>
-        <div style="font-size:11px; margin-top:5px; line-height:1.4;">
-          160, boul. St-Martin-Laurier 103, Blainvill (Québec) J3G 4Z7 &nbsp;&nbsp;
-          <strong>450-464-2288</strong><br/>
-          3305, avenue Broadway, bureau TQ3, Brossard (Québec) J4Z 2Z2 &nbsp;&nbsp;
-          <strong>620-658-0228</strong><br/>
-          Sans frais : <strong>1-800-989-8039</strong>
-        </div>
-      </div>
-    </td>
-  </tr>
+<div style="position:relative; width:100%; font-family:Arial, sans-serif;">
+  <!-- Logo positioned on the left -->
+  <img src="https://11251501-sb1.app.netsuite.com/core/media/media.nl?id=10064&amp;c=11251501_SB1&amp;h=5c9yoVt8caaSSmWFLoNwBAplGsQ9U4K0qza_NhdsXSKK2lF3" 
+       alt="Thermoco Logo" style="position:absolute; left:-45px; top:-43px; z-index:10;"/>
+  
+  <!-- SOUMISSION title -->
+  <div style="position:absolute; top:10px; font-size:24px; font-weight:bold; color:#333;">SOUMISSION</div>
+  
+  <!-- Subtext details floated -->
+  <div style="position:absolute; left:280px; top:45px; font-size:11px; line-height:1.5; color:#333;">
+    La référence en chauffage et climatisation depuis <strong>1981</strong> 
+    &nbsp;|&nbsp; <span style="color:#c4121a;">Thermoco.ca</span>
+  </div>
+  
+  <div le="position:absolute; left:280px; top:70px; font-size:10px; line-height:1.4; color:#333;">
+    <strong>450-464-2288</strong>
+  </div>
+  
+  <div style="position:absolute; left:400px; top:70px; font-size:10px; line-height:1.4; color:#333;">
+    160, boul. St-Martin-Laurier 103, Blainville (Québec) J3G 4Z7
+  </div>
+  
+  <div style="position:absolute; left:280px; top:85px; font-size:10px; line-height:1.4; color:#333;">
+    <strong>620-658-0228</strong>
+  </div>
+  
+  <div style="position:absolute; left:400px; top:85px; font-size:10px; line-height:1.4; color:#333;">
+    3305, avenue Broadway, bureau TQ3, Brossard (Québec) J4Z 2Z2
+  </div>
+  
+  <div style="position:absolute; left:280px; top:100px; font-size:10px; line-height:1.4; color:#333;">
+    Sans frais : <strong>1-800-989-8039</strong>
+  </div>
+</div>
 
+<!-- Red line separator -->
+<div style="width:100%; height:3px; background-color:#c4121a; margin-top:10px;"></div>
+
+<!-- Bottom row with CMMTQ and RBQ -->
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; margin-top:5px;">
   <tr>
-    <td colspan="2" style="border-top:3px solid #c4121a; padding:5px 15px; font-size:10px; text-align:right;">
-      <table style="width:100%; border-collapse:collapse;">
-        <tr>
-          <td style="width:70%; text-align:left;">
-            <img src="https://system.netsuite.com/core/media/media.nl?id=YYYY&amp;c=YOURACCID&amp;h=YYYYY&amp;_xt=.png" 
-                 alt="CMMTQ Logo" style="height:18px; vertical-align:middle; margin-right:5px;"/>
-            CMMTQ – Corporation des maîtres mécaniciens en tuyauterie du Québec
-          </td>
-          <td style="width:30%; text-align:right;">
-            R.B.Q.: <strong>1843-6162-60</strong>
-          </td>
-        </tr>
-      </table>
+    <td style="width:70%; text-align:left; font-size:10px; padding:5px 0;">
+      <img src="https://system.netsuite.com/core/media/media.nl?id=YYYY&amp;c=YOURACCID&amp;h=YYYYY&amp;_xt=.png" 
+           alt="CMMTQ Logo" style="height:18px; vertical-align:middle; margin-right:5px;"/>
+      CMMTQ – Corporation des maîtres mécaniciens en tuyauterie du Québec
+    </td>
+    <td style="width:30%; text-align:right; font-size:10px; padding:5px 0;">
+      R.B.Q.: <strong>1843-6162-60</strong>
     </td>
   </tr>
 </table>
@@ -79,7 +90,7 @@
 		<#elseif .locale == "zh_TW">
 			font-family: NotoSans, NotoSansCJKtc, sans-serif;
 		<#elseif .locale == "ja_JP">
-			font-family: NotoSans, NotoSansCJKjp, sans-serif;
+			fonstyt-family: NotoSans, NotoSansCJKjp, sans-serif;
 		<#elseif .locale == "ko_KR">
 			font-family: NotoSans, NotoSansCJKkr, sans-serif;
 		<#elseif .locale == "th_TH">
