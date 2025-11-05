@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_esp_quote_main" standard="STDTMPLQUOTE">
+  <description></description>
+  <displaysourcecode>F</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>F</preferred>
+  <printtype>TRANSACTION</printtype>
+  <title>THM - Main Quote PDF/HTML Template</title>
+  <trantype>ESTIMATE</trantype>
+</advancedpdftemplate>

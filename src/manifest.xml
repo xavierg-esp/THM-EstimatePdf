@@ -1,4 +1,10 @@
 <manifest projecttype="ACCOUNTCUSTOMIZATION">
   <projectname>src</projectname>
   <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">ESTIMATES</feature>
+      <feature required="true">ADVANCEDPRINTING</feature>
+    </features>
+  </dependencies>
 </manifest>
