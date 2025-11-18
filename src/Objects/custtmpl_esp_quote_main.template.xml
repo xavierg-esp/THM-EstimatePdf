@@ -38,70 +38,80 @@
        alt="Thermoco Logo" style="position:absolute;  z-index:10; height: 140px; width: 758px;"/>
   
   <!-- SOUMISSION title -->
-  <div style=" position:absolute; top: 5px; left: 315px; font-size:30px; font-weight:bold;">
-    <b style="color: #6d6b6f;">SOUMISSION</b>
+  <div style=" position:absolute; top: -7px; left: 310px; font-size:30px; font-weight:bold;">
+    <b style="color: #6d6b6f;letter-spacing: -1px;">SOUMISSION</b>
   </div>
   
   <!-- Subtext details floated -->
-  <table style="table-layout:fixed; width:390px; position:absolute; left:190px; top:75px; border-collapse:collapse; font-family:Arial, sans-serif;">
+  <table style="table-layout:fixed; width:500px; position:absolute; left:130px; top:75px; border-collapse:collapse; font-family:Arial, sans-serif;">
     <tr>
-      <td style="width:278px;font-size:11px; color:#333; padding:2px 0; white-space:nowrap; overflow:visible;">
+      <td align="center" style="width:375px;font-size:12px; color:#333; padding-left:110px; white-space:nowrap; overflow:visible;">
         <b><i>La référence en chauffage et climatisation depuis 1981</i></b> 
       </td>
-      <td style="width:60px;"></td>
-      <td align="left" style="white-space:nowrap; overflow:visible; padding-left:-3px; width:105px;">
-      <span  style="font-size:13px; color:#c4121a;">Thermoco.ca</span>
+      <td style="width:80px;"></td>
+      <td align="left" style="white-space:nowrap; overflow:visible; padding-top:1px;padding-left:-8px; width:130px;">
+      
       </td>
     </tr>
-    <tr style="line-height:4;padding-left:5px;">
-     <td style="white-space:nowrap; overflow:visible; font-size:10px;  color:#333; padding:2px 0;">
-        160, boul. Sir-Wilfrid-Laurier 100, <b>Beloeil</b> (Québec)
-      </td>
-     <td align="right" style="white-space:nowrap; overflow:visible;font-size:10px;  color:#333; padding:2px 0;">
+    <tr style="line-height:4;padding-left:5px;padding-top:15px;">
+     <td align="right" style=" font-size:12px; color:#333;  padding:2px 0;">
+        160 boul. Sir-Wilfrid-Laurier, <b>Beloeil</b> (QC)
+     </td>
+     <td align="right" style="white-space:nowrap; overflow:visible;font-size:12px;  color:#333; padding:2px 0;">
         J3G 4Z7
-      </td>
-      <td  align="right" style="font-size:10px;  color:#333; padding:2px 0; padding-right:10px;">
-        <strong>450 464-2188</strong>
+     </td>
+      <td  align="right" style="font-size:12px;  color:#333; padding:2px 0; padding-right:25px;">
+        <strong style="letter-spacing: -0.5px;">450 464-2188</strong>
       </td>
 
     </tr>
     <tr style="line-height:4;">
-      <td style="white-space:nowrap; overflow:visible;font-size:10px; color:#333; padding:2px 0;">
-        3305, avenue Broadway, bureau 103, <b>Brossard</b> (Québec)
+      <td align="right" style="font-size:12px; color:#333; padding:2px 0;">
+        3305 av. Broadway, Bureau 103, <b>Brossard</b> (QC)
       </td>
-      <td align="right"  style="white-space:nowrap; overflow:visible; font-size:10px; color:#333; padding:2px 0;">
+      <td align="right"  style="white-space:nowrap; overflow:visible; font-size:12px; color:#333; padding:2px 0;">
         J4Z 0N2
       </td>
-      <td align="right" style="font-size:10px;   color:#333; padding:2px 0; padding-right:10px;">
-        <strong>450 286-0226</strong>
+      <td align="right" style="font-size:12px;   color:#333; padding:2px 0; padding-right:25px;">
+        <strong style="letter-spacing: -0.5px;">450 286-0226</strong>
       </td>
     </tr>
   </table>
 </div>
 
- <img src="https://11251501.app.netsuite.com/core/media/media.nl?id=10430&amp;c=11251501&amp;h=z4DlU3ZhMnPO6Z6uqMZ3q2_05ayXUL5mAOhka9E0l5uVW-9f" 
-           alt="CMMTQ Logo" style="position:absolute; top:75px; left:575px; vertical-align:middle; height: 22px; width: 54px; margin-right:5px;"/>
 
-<!-- Bottom row with CMMTQ and RBQ -->
-<table style="position:absolute; left:575px; top:75px; border-collapse:collapse; table-layout:fixed; width:200px;">
-  <tr style="height:20px;">
-    <td align="right" style="font-size:11px; padding-top:5px; padding-right:15px; width:85px;">
-    <b> 6777</b>
-    </td>
-    <td align="left" style=" font-size:10px; padding-top:5px; padding-left:-5px; width:85px;">
-     <b style="font-size:11px;"> RBQ:</b> <b> 1843-6162-60</b>
+<!-- Bottom row with CMMTQ and RBQ --> <img src="https://11251501.app.netsuite.com/core/media/media.nl?id=10433&amp;c=11251501&amp;h=SEr0a8smOUimX1tt-XQT_QnAmLtqRFmL8BiSlHEmferEjeDC" 
+           alt="CMMTQ Logo" style="position:absolute; left:600px; top:86px; vertical-align:middle; height: 35px; width: 90px; margin-right:5px;"/>    
+
+
+<table style="position:absolute; left:620px; top:75px; border-collapse:collapse; table-layout:fixed; width:300px;">
+
+<tr>
+
+    <td align="left" style=" font-size:10px;  width:85px;">
+     <b style="font-size:13px;letter-spacing: -0.5px; "> R.B.Q.:</b> <b> 1843-6162-60</b>
     </td>
   </tr>
   <tr>
-    <td align="justify" style="text-align:left; font-size:10px; padding:5px 0;">
-      Corporation des maîtres mécaniciens en tuyauterie du Québec (CMMTQ)
-    </td>
-    <td align="justify" style="text-align:right; font-size:10px; padding:2px 0;">
-    Régie du bâtiment du Québec (RBQ)
+    <td align="left" style="padding-left:60px; letter-spacing: -0.5px; text-align:left; font-size:12px;">
+         <b> 6777</b>
+
     </td>
   </tr>
-  
+    <tr>
+    <td align="justify" style="line-height:7; letter-spacing: -0.5px; text-align:left; font-size:10px; padding:5px 0;">
+      <span ><b style="letter-spacing: -0.5px; font-size:13px; color:#c4121a;">Thermoco.ca</b></span>
+    </td>
+  </tr>
+
+
 </table>
+
+  <div style="position:absolute; left:670px; top:15px;">
+    <b style=" border-collapse:collapse; table-layout:fixed; width:300px;">
+${record.tranid}
+ </b>
+  </div>
         </macro>
         <macro id="nlfooter">
             <table class="footer" style="width: 100%; height: 150px; padding-top:20px; font-size:8pt;">
@@ -216,37 +226,29 @@
 <body header="nlheader" header-height="15%" footer="nlfooter" footer-height="75px" padding="0in 0in 0in 0in" size="Letter">
     
     <!-- Bill To and Ship To Section -->
-    <table style="width: 100%; margin-top: 10px; border-collapse:collapse;">
+    <table style="width: 100%; margin-top: 10px;">
         <tr>
-            <td style="width:50%; vertical-align:top; padding-right:10px;">
-                <div style="font-size:10pt; font-weight:bold; margin-bottom:5px; padding-bottom:3px;">
-                   <b> Facturé à:</b>
-                </div>
-                <div style="font-size:9pt;">
-                    <strong>${record.entity}</strong><br/>
-                    <#if record.billaddr1?has_content>${record.billaddr1} </#if><#if record.billaddr2?has_content>${record.billaddr2} </#if><#if record.billaddr3?has_content>${record.billaddr3} </#if><#if record.billcity?has_content>${record.billcity}, </#if><#if record.billstate?has_content>${record.billstate} </#if><#if record.billzip?has_content>${record.billzip} </#if><#if record.billcountry?has_content>${record.billcountry}</#if><#if record.billaddr1?has_content || record.billcity?has_content><br/></#if>
-                    <#if record.entity.phone?has_content>
-                    Tél: ${formatPhone(record.entity.phone)}<br/>
-                    </#if>
-                    <#if record.entity.email?has_content>
-                    Courriel: ${record.entity.email}
-                    </#if>
-                </div>
+            <td style="width:50%; font-size:10pt; padding:5px; vertical-align:top; line-height:16;">
+                <b>Facturé à:</b><br/>
+                <strong>${record.entity}</strong><br/>
+                <#if record.billaddr1?has_content>${record.billaddr1} </#if><#if record.billaddr2?has_content>${record.billaddr2} </#if><#if record.billaddr3?has_content>${record.billaddr3} </#if><#if record.billcity?has_content>${record.billcity}, </#if><#if record.billstate?has_content>${record.billstate} </#if><#if record.billzip?has_content>${record.billzip} </#if>><#if record.billaddr1?has_content || record.billcity?has_content><br/></#if>
+                <#if record.entity.phone?has_content>
+                Tel. personne-ressource: ${formatPhone(record.entity.phone)}<br/>
+                </#if>
+                <#if record.entity.email?has_content>
+                Courriel: ${record.entity.email}
+                </#if>
             </td>
-            <td style="width:50%; vertical-align:top; padding-left:10px;">
-                <div style="font-size:10pt; font-weight:bold; margin-bottom:5px; padding-bottom:3px;">
-                    <b>Adresse des travaux (chantier):</b>
-                </div>
-                <div style="font-size:9pt;">
-                    <strong>${record.entity}</strong><br/>
-                    <#if record.shipaddr1?has_content>${record.shipaddr1} </#if><#if record.shipaddr2?has_content>${record.shipaddr2} </#if><#if record.shipaddr3?has_content>${record.shipaddr3} </#if><#if record.shipcity?has_content>${record.shipcity}, </#if><#if record.shipstate?has_content>${record.shipstate} </#if><#if record.shipzip?has_content>${record.shipzip} </#if><#if record.shipcountry?has_content>${record.shipcountry}</#if><#if record.shipaddr1?has_content || record.shipcity?has_content><br/></#if>
-                    <#if record.entity.phone?has_content>
-                    Tél: ${formatPhone(record.entity.phone)}<br/>
-                    </#if>
-                    <#if record.entity.email?has_content>
-                    Courriel: ${record.entity.email}
-                    </#if>
-                </div>
+            <td style="width:50%; font-size:10pt; padding:5px; vertical-align:top; line-height:16;">
+                <b>Adresse des travaux (chantier):</b><br/>
+                <strong>${record.entity}</strong><br/>
+                <#if record.shipaddr1?has_content>${record.shipaddr1} </#if><#if record.shipaddr2?has_content>${record.shipaddr2} </#if><#if record.shipaddr3?has_content>${record.shipaddr3} </#if><#if record.shipcity?has_content>${record.shipcity}, </#if><#if record.shipstate?has_content>${record.shipstate} </#if><#if record.shipzip?has_content>${record.shipzip} </#if><#if record.shipaddr1?has_content || record.shipcity?has_content><br/></#if>
+                <#if record.entity.phone?has_content>
+                Tel. personne-ressource: ${formatPhone(record.entity.phone)}<br/>
+                </#if>
+                <#if record.entity.email?has_content>
+                Courriel: ${record.entity.email}
+                </#if>
             </td>
         </tr>
     </table>
@@ -257,24 +259,24 @@
     <!-- Sales Rep and Date Information -->
     <table style=" border-top:3px solid;border-bottom:3px solid;width: 100%; margin-top: 10px; border-collapse:collapse; font-size:9pt;">
         <tr >
-            <td style="border-right: 3px solid; text-align:left; padding:5px; width:20%;"><b>Représentant</b></td>
-            <td style="border-right: 3px solid; text-align:left; padding:5px; width:15%;"><b>Cellulaire</b></td>
-            <td style="border-right: 3px solid; text-align:left; padding:5px; width:25%;"><b>Courriel</b></td>
-            <td style="border-right: 3px solid; text-align:left; padding:5px; width:20%;"><b>Date début soumission</b></td>
-            <td style="text-align:left; padding:5px; width:20%;"><b>Date fin soumission</b></td>
+            <td align="center" style="border-right: 3px solid; text-align:left; padding:5px; width:20%;"><b>Représentant</b></td>
+            <td align="center" style="border-right: 3px solid; text-align:left; padding:5px; width:15%;"><b>Cellulaire</b></td>
+            <td align="center" style="border-right: 3px solid; text-align:left; padding:5px; width:25%;"><b>Courriel</b></td>
+            <td align="center" style="border-right: 3px solid; text-align:left; padding:5px; width:20%;"><b>Date début soumission</b></td>
+            <td align="center" style="text-align:left; padding:5px; width:20%;"><b>Date fin soumission</b></td>
         </tr>
         <tr>
-            <td style="border-right: 3px solid;padding:5px;">${record.salesrep}</td>
-            <td style="border-right: 3px solid;padding:5px;">
+            <td align="center" style="border-right: 3px solid;padding:5px;">${record.salesrep}</td>
+            <td align="center" style="border-right: 3px solid;padding:5px;">
                 <#if record.salesrep.mobilephone?has_content>
                 ${formatPhone(record.salesrep.mobilephone)}
                 <#else>
                 ${formatPhone(record.salesrep.phone)}
                 </#if>
             </td>
-            <td style="border-right: 3px solid;padding:5px;">${record.salesrep.email}</td>
-            <td style="border-right: 3px solid;padding:5px;">${record.expectedclosedate}</td>
-            <td style="padding:5px;">${record.duedate}</td>
+            <td align="center" style="border-right: 3px solid;padding:5px;">${record.salesrep.email}</td>
+            <td align="center" style="border-right: 3px solid;padding:5px;">${record.expectedclosedate}</td>
+            <td align="center" style="padding:5px;">${record.duedate}</td>
         </tr>
     </table>
     
@@ -282,7 +284,7 @@
     <table class="itemtable" style=" width: 100%; margin-top: 10px;">
         <!-- start items -->
         <#list record.item as item>
-         <#if item.custcol_esp_kitwarranty == false>
+
             <#if item_index==0>
                 <thead style="border-top:3px solid;border-bottom:3px solid; background-color:#gray;">
                     <tr>
@@ -294,6 +296,7 @@
                     </tr>
                 </thead>
                 </#if>
+                <#if item.custcol_esp_kitwarranty == false && item.custcol_esp_iswarranty_item == false>
                 <tr>
                     <td><b>${item.displayname}</b></td>
                     <td>${item.description}</td>
@@ -301,7 +304,7 @@
                     <td align="right">${item.rate}</td>
                     <td align="right">${item.amount}</td>
                 </tr>
-            </#if>
+                </#if>
         </#list>
         <!-- end items -->
     </table>
@@ -328,7 +331,7 @@
         <tr>
             <td colspan="4"></td>
             <td align="right"><b>Montant non-taxable:</b></td>
-            <td align="right"><b style="color:#c4121a;"><#if record.altshippingcost?has_content>${record.altshippingcost}<#else>$0.00</#if></b></td>
+            <td align="right"><b style="color:#c4121a;">${record.shippingcost}</b></td>
         </tr>
         <tr class="totalrow">
             <td background-color="#ffffff"  colspan="4"></td>
@@ -341,7 +344,7 @@
 
     <#assign hasWarranty = false />
     <#list record.item as item>
-        <#if item.custcol_esp_kitwarranty?? && item.custcol_esp_kitwarranty == true>
+        <#if (item.custcol_esp_kitwarranty?? && item.custcol_esp_kitwarranty == true) || item.custcol_esp_iswarranty_item == true>
             <#assign hasWarranty = true />
             <#break />
         </#if>
@@ -363,7 +366,7 @@
             </tr>
         </thead>
         <#list record.item as item>
-            <#if item.custcol_esp_kitwarranty?? && item.custcol_esp_kitwarranty == true>
+            <#if (item.custcol_esp_kitwarranty?? && item.custcol_esp_kitwarranty == true) || item.custcol_esp_iswarranty_item == true>
             <tr>
 
                 <td><b>${item.displayname}</b></td>
